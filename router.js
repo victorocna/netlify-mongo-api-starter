@@ -7,6 +7,7 @@ module.exports = router;
  * Use the router instances defined
  * @see https://expressjs.com/en/api.html#app.use
  */
+router.use(require('./routes/banking'));
 router.use(require('./routes/identity'));
 
 /**
