@@ -34,7 +34,7 @@
     "netlify-lambda": "^2.0.2",
     "serverless-http": "^2.6.0",
     "terser-webpack-plugin": "^3.1.0",
-    "validator": "^13.1.17",
+    "validator": "^13.7.0",
     "webpack": "^4.44.2"
   },
   "devDependencies": {
